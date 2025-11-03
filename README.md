@@ -1,6 +1,6 @@
 # Alpic MCP Template
 
-A TypeScript template for building MCP servers using Streamable HTTP transport!
+A TypeScript template for building MCP servers using Streamable HTTP transport.
 
 ## Overview
 
